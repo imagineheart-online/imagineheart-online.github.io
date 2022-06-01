@@ -27,7 +27,9 @@ Funding
 ------
 This work has been supported in part by the Croatian Science Foundation under the project UIP-2017-05-4968.
 
+<img src="/images/big_ferit.jpg" href="https://hrzz.hr/en/" alt="ferit" width="200"/> 
+<img src="/images/HRZZ-eng.jpg" href="https://www.ferit.unios.hr/2021/" alt="hrzz" width="200"/>
 
-![alt text](big_ferit.jpg)
+
 
 
