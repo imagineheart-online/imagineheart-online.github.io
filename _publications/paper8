@@ -1,16 +1,16 @@
 ---
-title: "Centerline Tracking of the Single Coronary Artery from X-ray Angiograms"
+title: "Abdominal Aortic Aneurysm Segmentation from CT Images using Modified 3D U-Net with Deep Supervision"
 collection: publications
-permalink: /publication/paper7
+permalink: /publication/paper8
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020
 venue: '2020 International Symposium on Electronics in Marine (ELMAR)'
-paperurl: 'http://dx.doi.org/10.1109/elmar49956.2020.9219025'
-citation: 'Habijan, Marija; Babin, Danilo; Galic, Irena; Leventic, Hrvoje; Velicki, Lazar; Cankovic, Milenko, 
-Centerline Tracking of the Single Coronary Artery from X-ray Angiograms // 2020 International Symposium ELMAR
-Zadar: IEEE, 2020. str. 117-122 doi:10.1109/elmar49956.2020.9219025'
+paperurl: 'http://dx.doi.org/10.1109/elmar49956.2020.9219015'
+citation: 'Habijan, Marija; Galic, Irena; Leventic, Hrvoje; Romic, Kresimir; Babin, Danilo
+Abdominal Aortic Aneurysm Segmentation from CT Images using Modified 3D U-Net with Deep Supervision, 2020 International Symposium ELMAR
+Zadar: IEEE, 2020. str. 123-128 doi:10.1109/elmar49956.2020.9219015'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Read paper here](http://dx.doi.org/10.1109/elmar49956.2020.9219025)
+[Read paper here](http://dx.doi.org/10.1109/elmar49956.2020.9219015)
 
