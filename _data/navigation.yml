@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Project"
-    url: /about/
+    url: /markdown/
     
   - title: "Team"
-    url: /team/
+    url: /portfolio/
   
   - title: "Publications"
     url: /publications/
