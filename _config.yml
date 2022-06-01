@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "imagineHeart"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "imagineHeart"
+description              : &description "description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "imagineHeart"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Medical Image Interpretation Methods for a Detailed Heart Health Analysis"
+  location         : "FERIT Campus"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/project/IMAGINEHEART-Medical-Image-Interpretation-Methods-for-a-Detailed-Heart-Health-Analysis"
   uri              :
   bitbucket        :
   codepen          :
