@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Motivation and Objective 
+Medical Image Interpretation Methods for a Detailed Heart Health Analysis 
 ======
 Cardiovascular disease refers to numerous dysfunctions of the heart and the circulatory system. According to the latest available statistics from the World Health Organization, cardiovascular diseases are responsible for approximately 17.7 million or 31% of all deaths worldwide. Maintaining and improving cardiovascular health is the main motivation for cardiovascular disease research. The development of advanced imaging techniques such as computed tomography and magnetic resonance imaging can improve our understanding of disease physiology and serve as a monitor of disease
 progression. The interpretation of the collected medical images depends heavily on computer processing methods. Image processing approaches have been
