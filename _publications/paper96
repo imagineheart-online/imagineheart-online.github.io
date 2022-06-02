@@ -1,15 +1,14 @@
 ---
 title: "AB-ResUNet+: Improving Multiple Cardiovascular Structure Segmentation from Computed Tomography Angiography Images"
 collection: publications
-permalink: /publication/paper16
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/paper96
+excerpt: 
+date: 2022-03-16
 venue: 'Applied Sciences'
-paperurl: 'https://www.mdpi.com/2076-3417/12/6/3024'
-citation: '
-Habijan, Marija; Galić, Irena; Romić, Krešimir; Leventić, Hrvoje
+paperurl: 
+citation: Habijan, Marija; Galić, Irena; Romić, Krešimir; Leventić, Hrvoje
 AB-ResUNet+: Improving Multiple Cardiovascular Structure Segmentation from Computed Tomography Angiography Images // Applied Sciences, 12 (2022), 6; 3024, 18 doi:10.3390/app12063024'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Read paper here](https://www.mdpi.com/2076-3417/12/6/3024)
 
