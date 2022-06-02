@@ -32,9 +32,11 @@ The result of each of the five work packages is a software implementation of the
 
 This analysis can be achieved by establishing causal relationships between specific quantifications and their demonstrated effects on cardiovascular health. Examples of quantifications that can be used are: cardiac geometry and volume, major artery geometry, left atrial morphology, blood flow through the aorta, cardiac compliance analysis, and epicardial fat quantification. Deviation from normal values of almost all of these quantifying factors is a risk for the development of some heart diseases. Timely detection of such deviations allows to identify potential risks to patients&#39; health, which is a fundamental improvement in the diagnosis and treatment of patients.
 <br>  
+<br>   
+
+Funding 
   
-Funding
-======
+
 This work has been supported in part by the Croatian Science Foundation under the project UIP-2017-05-4968.
 
 
