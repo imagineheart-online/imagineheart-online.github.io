@@ -2,14 +2,14 @@
 title: "Abdominal Aortic Aneurysm Segmentation from CT Images using Modified 3D U-Net with Deep Supervision"
 collection: publications
 permalink: /publication/paper8
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt:
+date: 2020-09-15
 venue: '2020 International Symposium on Electronics in Marine (ELMAR)'
 paperurl: 'http://dx.doi.org/10.1109/elmar49956.2020.9219015'
 citation: 'Habijan, Marija; Galic, Irena; Leventic, Hrvoje; Romic, Kresimir; Babin, Danilo
 Abdominal Aortic Aneurysm Segmentation from CT Images using Modified 3D U-Net with Deep Supervision, 2020 International Symposium ELMAR
 Zadar: IEEE, 2020. str. 123-128 doi:10.1109/elmar49956.2020.9219015'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Read paper here](http://dx.doi.org/10.1109/elmar49956.2020.9219015)
 
