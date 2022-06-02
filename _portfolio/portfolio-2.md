@@ -1,6 +1,6 @@
 ---
-title: "dr.sc. Marina Habijan"
-excerpt: "Postdoctoral Researcher<br/><img width='200' align='center' src='/images/cv_Habijan_Marija.jpg'>"
+title: "dr.sc. Marija Habijan"
+excerpt: "Postdoctoral Researcher<br/><img width='200' align='center' src='/images/cv_habijan.jpg'>"
 collection: portfolio
 ---
 
