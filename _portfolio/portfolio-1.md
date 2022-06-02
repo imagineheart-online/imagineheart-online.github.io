@@ -1,6 +1,6 @@
 ---
 title: "Marin Benčević, mag.ing.comp."
-excerpt: "Doctoral Researcher<br/><img width='400' align='center' src='/images/cv_benc.jpg'>"
+excerpt: "Doctoral Researcher<br/><img width='200' align='center' src='/images/cv_benc.jpg'>"
 collection: portfolio
 ---
 
