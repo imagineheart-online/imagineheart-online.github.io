@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Marin Benčević, mag.ing.comp."
+excerpt: "Doctoral Researcher<br/><img width='400' align='center' src='/images/cv_Benčević_Marin.jpg'>"
 collection: portfolio
 ---
 
