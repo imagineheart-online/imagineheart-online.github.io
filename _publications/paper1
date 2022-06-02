@@ -3,8 +3,9 @@ title: "Left atrial appendage segmentation from 3D CCTA images for occluder plac
 collection: publications
 permalink: 
 excerpt: 
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2019-01-16
+venue: 'Computers in Biology and Medicine'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010482518303445'
 citation: 'Leventić, Hrvoje, Danilo Babin, Lazar U. Velicki, Daniel Devos, Irena Galić, Vladimir Zlokolica, Krešimir Romić and Aleksandra Pižurica. “Left atrial appendage segmentation from 3D CCTA images for occluder placement procedure.” Computers in biology and medicine 104 (2019): 163-174.'
 ---
 
