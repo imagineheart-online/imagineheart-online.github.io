@@ -24,11 +24,11 @@ The project consists of five work packages each of which addresses one of the fo
   <li> WP3: Segmentation and analysis of other relevant coronary arteries and epicardial fat quantification </li>
   <li> WP4: Simulation of a blood flow through heart parts </li>
   <li> WP5: Isolation and the entire heart visualization </li>
-<br>
-  
+<br>  
+
 <img src="/images/overall.png" alt="project_objectives"/>
 
-
+The result of each of the five work packages is a software implementation of the developed methods for dealing with a particular problem and experimental analysis of the developed software regarding its applicability in a cardiovascular image analysis. 
 
 This analysis can be achieved by establishing causal relationships between specific quantifications and their demonstrated effects on cardiovascular health. Examples of quantifications that can be used are: cardiac geometry and volume, major artery geometry, left atrial morphology, blood flow through the aorta, cardiac compliance analysis, and epicardial fat quantification. Deviation from normal values of almost all of these quantifying factors is a risk for the development of some heart diseases. Timely detection of such deviations allows to identify potential risks to patients&#39; health, which is a fundamental improvement in the diagnosis and treatment of patients.
 
