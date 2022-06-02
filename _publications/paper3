@@ -2,12 +2,13 @@
 title: "Estimation of the Left Ventricle Volume using Semantic Segmentation"
 collection: publications
 permalink: /publication/paper3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 
+date: 2019-09-25
 venue: '2019 International Symposium on Electronics in Marine (ELMAR)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 
+citation: 'Habijan, Marija; Leventić, Hrvoje; Galić, Irena; Babin, Danilo, Estimation of the Left Ventricle Volume using Semantic Segmentation, ELMAR 2019
+Zadar, 2019. str. 39-44'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Read paper here](https://ieeexplore.ieee.org/document/8918851)
 
