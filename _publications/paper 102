@@ -1,0 +1,13 @@
+---
+title: "Using the Polar Transform for Efficient Deep Learning-Based Aorta Segmentation in CTA Images"
+collection: publications
+permalink: /publication/paper102
+excerpt: 
+date: 2023
+venue: 'Sensors'
+paperurl: 'https://www.mdpi.com/1424-8220/23/2/633'
+citation: 'Benčević, Marin, Yuming Qiu, Irena Galić, and Aleksandra Pižurica. 2023. "Segment-then-Segment: Context-Preserving Crop-Based Segmentation for Large Biomedical Images" Sensors 23, no. 2: 633. https://doi.org/10.3390/s23020633'
+---
+
+[Read paper here](https://www.mdpi.com/1424-8220/23/2/633)
+
