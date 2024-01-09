@@ -38,10 +38,10 @@ This analysis can be achieved by establishing causal relationships between speci
 <br>  
 <br>   
 
-Funding 
-  
+Funding: 
+<br>    
 
-This work has been supported in part by the Croatian Science Foundation under the project UIP-2017-05-4968.
+This work has been supported in part by the Croatian Science Foundation under the project <a href="https://www.bib.irb.hr:8443/pretraga/?operators=and|6627|text|project-id"> UIP-2017-05-4968.</a>
 
 
 <table align="center">
