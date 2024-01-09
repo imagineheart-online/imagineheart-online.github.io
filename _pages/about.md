@@ -11,7 +11,7 @@ redirect_from:
 Cardiovascular disease refers to numerous dysfunctions of the heart and the circulatory system. According to the latest available statistics from the World Health Organization, cardiovascular diseases are responsible for approximately 17.7 million or 31% of all deaths worldwide. Maintaining and improving cardiovascular health is the main motivation for cardiovascular disease research. The development of advanced imaging techniques such as computed tomography and magnetic resonance imaging can improve our understanding of disease physiology and serve as a monitor of disease progression. The interpretation of the collected medical images depends heavily on computer processing methods. Image processing approaches have been proposed to extract parameters of cardiac shape and function from different modalities of cardiac imaging, with the aim of providing a comprehensive analysis of the heart. Medical software is often very expensive and tied to the manufacturers of a particular device, making it difficult for smaller hospitals and researchers to obtain such software.
 
 
-The project lasted from 1.3.2018. - 28.2.2023. and during that time the following results are obtained: 
+The project lasted from 1.3.2018. - 28.2.2023. and during that time the following results are obtained:
 
 
 <img src="/images/project_numbers.png" alt="project_objectives"/>
