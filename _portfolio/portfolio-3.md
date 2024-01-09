@@ -1,5 +1,5 @@
 ---
-title: "dr.sc. Krešimir Romić"
+title: "doc. dr.sc. Krešimir Romić"
 excerpt: "Postdoctoral Researcher<br/><img width='200' align='center' src='/images/cv_romic_kresimir.jpg'>"
 collection: portfolio
 ---

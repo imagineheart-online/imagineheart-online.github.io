@@ -1,5 +1,5 @@
 ---
-title: "dr.sc. Hrvoje Leventić"
+title: "doc. dr.sc. Hrvoje Leventić"
 excerpt: "Postdoctoral Researcher<br/><img width='200' align='center' src='/images/cv_leventic_hrvoje.jpg'>"
 collection: portfolio
 ---

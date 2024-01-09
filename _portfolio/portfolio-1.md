@@ -1,5 +1,5 @@
 ---
-title: "izv. prof. dr. sc. Irena Galić"
+title: "prof. dr. sc. Irena Galić"
 excerpt: "Project lead <br/><img width='200' alt='ferit' align='center' src='/images/irena.png'>"
 collection: portfolio
 ---
