@@ -3,7 +3,7 @@ title: "Whole Heart Segmentation Using 3D FM-Pre-ResNet Encoder–Decoder Based 
 collection: publications
 permalink: /publication/paper90
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2019
+date: 2019-04-26
 venue: 'Applied Sciences'
 paperurl: 'https://www.mdpi.com/2076-3417/11/9/3912'
 citation: 'Habijan, Marija; Galić, Irena; Leventić, Hrvoje; Romić, Krešimir, Whole Heart Segmentation Using 3D FM-Pre-ResNet Encoder–Decoder Based Architecture with Variational Autoencoder Regularization // Applied Sciences, 11 (2021), 9; 3912, 21 doi:10.3390/app11093912'
