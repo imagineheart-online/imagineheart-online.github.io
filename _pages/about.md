@@ -12,7 +12,9 @@ Cardiovascular disease refers to numerous dysfunctions of the heart and the circ
 progression. The interpretation of the collected medical images depends heavily on computer processing methods. Image processing approaches have been
 proposed to extract parameters of cardiac shape and function from different modalities of cardiac imaging, with the aim of providing a comprehensive analysis of the heart. Medical software is often very expensive and tied to the manufacturers of a particular device, making it difficult for smaller hospitals and researchers to obtain such software.
 
-The main objective of this project is to develop new methods for the analysis of cardiovascular images, which will allow the determination of as many
+The project has now finished.
+
+The main objective of this project was to develop new methods for the analysis of cardiovascular images, which will allow the determination of as many
 cardiovascular quantifications of the heart as possible from as few images as possible, in order to obtain a complete analysis of cardiovascular health.
 
 The project consists of five work packages each of which addresses one of the following topics:
